@@ -10,7 +10,7 @@ class HomeScreen extends Component {
     render (){
       return(
         <View>style={{flex:1, justifyContemt: 'center'}}
-          <text> style={{fontSize:50}}>Tela Inicial</text>
+          <text> style={{fontSize:50}}>Tela</text>
 
 </View>
       );
